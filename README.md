@@ -1,4 +1,4 @@
 ## runcy_site repository
-Personal site of Runcy Oommen
+Personal website of Runcy Oommen
 <br/>
 https://runcy.me
