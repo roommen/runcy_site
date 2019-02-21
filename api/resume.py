@@ -9,7 +9,8 @@ def resume():
                     practical, knowing where to draw the line and stop. Runcy advocates strong \
                     data privacy and possessing a natural penchant for security, he began working \
                     full time on CloudBrew to minimize data breaches in this mass surveillance world, \
-                    which continues now as an open source project."
+                    which continues now as an open source project.",
+                    "Social": []
                     }
 
 def lambda_handler(event, context):
