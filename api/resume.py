@@ -10,8 +10,11 @@ def resume():
                     data privacy and possessing a natural penchant for security, he began working \
                     full time on CloudBrew to minimize data breaches in this mass surveillance world, \
                     which continues now as an open source project.",
-                    "Social": []
-                    }
+                    "Social": [{"LinkedIn": "https://www.linkedin.com/in/runcyoommen"},\
+                               {"GitHub": "https://github.com/roommen"},\
+                               {"Twitter": "https://twitter.com/runcyoommen"},\
+                               {"Meetup": "https://www.meetup.com/members/227859610"}]\
+                   }
 
 def lambda_handler(event, context):
     return resume()
