@@ -12,6 +12,14 @@ def resume():
                         "Slideshare": "https://www.slideshare.net/RuncyOommen/presentations"
                         },
                 "Experience": [{
+                        "Company": "SonicWALL",
+                        "Title": "Principal Software Engineer",
+                        "Duration": "Dec '19 - Present | Dec '07 - May '16",
+                        "Roles & Responsibilities": {
+                                "1": "Over the course of my tenure, Runcy was part of the Email Security, SSL-VPN and UTM (Firewall) teams with focus on network and application security.",
+                                "2": "Currently working on a cloud native and AWS based solution for GMS."
+                                }
+                        },{
                         "Company": "Bridgei2i",
                         "Title": "Cloud Architect",
                         "Duration": "Jun '17 - Present",
@@ -30,17 +38,6 @@ def resume():
                                 "2": "Implemented the final packaging mechanism that combined the web, GUI and library components, deployment and easy environment replication.",
                                 "3": "Help arrive at the grand vision with an eye on the finer details by elevating the user experience and identifying the gaps.",
                                 "4": "Conducted design reviews, integration of the GUI and core library components, end-user testing, performance and security enhancements."
-                                }
-                        },{
-                        "Company": "SonicWALL",
-                        "Title": "Sr. Software Dev Engineer",
-                        "Duration": "Dec '07 - May '16",
-                        "Roles & Responsibilities": {
-                                "1": "Over the course of my tenure, Runcy was part of the Email Security, SSL-VPN client/server and UTM (Firewall) teams with focus on network and application security.",
-                                "2": "Involved with development and testing of the Firmware, Web Application Firewall and Mobile Connect Linux clients.",
-                                "3": "Implemented the settings and diagnostics enhancements to provide periodic automated backups for easier appliance recovery, restoration and root cause analysis.",
-                                "4": "Worked on a dynamic license aggregation system that looks up all the 3rd party licenses used in the product per release and generating an automated guide.",
-                                "5": "Built the Mobile Connect VPN client for Linux from scratch and got it to a point which can then be further integrated by the respective firmware teams."
                                 }
                         },{
                         "Company": "McAfee",
